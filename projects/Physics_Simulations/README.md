@@ -13,6 +13,6 @@ https://github.com/alexandrekhoury/ComputationalPhysics_Phys512/tree/master/Nbod
 
 ## Electromagnetic Wave propogation in a medium
 
-[](https://github.com/alexandrekhoury/alexandrekhoury.github.io/blob/gh-pages/projects/Physics_Simulations/movie9.gif)
+![](https://github.com/alexandrekhoury/alexandrekhoury.github.io/blob/gh-pages/projects/Physics_Simulations/movie9.gif)
 
 The wave is going through a pore which seperates two different mediums. 
