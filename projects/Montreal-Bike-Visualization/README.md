@@ -10,7 +10,7 @@ The goal of this project is to practice data processing and visualization by tak
 
 ## Animation with slider of bike density throughout the years in Montreal. Data is represented for a single year at a time. Data is taken from trackers on cycling paths.
 
-{% include pistes_animations.html %}
+{% include pistes_animation.html %}
 
 ## Animation with slider of bike density throughout the years in Montreal. Data is represented for a single year at a time. Data is taken from cameras from road intersections.
 
