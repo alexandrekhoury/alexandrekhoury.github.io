@@ -4,6 +4,7 @@ description: Plots from selected data science courses from Coursera.
 #image: /assets/images/project-image.jpg
 layout: project_page
 url: /climate-plots/
+permalink: /climate-plots/
 ---
 # Coursera Plots
 ## Coursera courses selected plots from projects
