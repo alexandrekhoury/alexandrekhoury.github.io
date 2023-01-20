@@ -4,6 +4,7 @@ description: Selected projects from my physics degree.
 #image: /assets/images/project-image.jpg
 url: /projects/physics/
 permalink: /projects/physics/
+layout: page
 ---
 # Physics Simulations!
 
