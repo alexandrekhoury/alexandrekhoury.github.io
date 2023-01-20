@@ -1,3 +1,9 @@
+---
+title: Physics Simulations!
+description: Selected projects from my physics degree.
+#image: /assets/images/project-image.jpg
+layout: projects
+---
 # Physics Simulations!
 
 ## NBody Physics Problem
