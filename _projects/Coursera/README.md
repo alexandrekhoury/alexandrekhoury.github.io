@@ -5,7 +5,7 @@ description: Plots from selected data science courses from Coursera.
 url: /projects/Coursera/
 permalink: /projects/Coursera/
 layout: page
-image: /Coursera/assignment4.jpeg
+image: /_projects/Coursera/assignment4.jpeg
 ---
 # Coursera Plots
 ## Coursera courses selected plots from projects
