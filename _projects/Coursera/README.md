@@ -5,6 +5,7 @@ description: Plots from selected data science courses from Coursera.
 url: /projects/Coursera/
 permalink: /projects/Coursera/
 layout: page
+image: /Coursera/assignment4.jpeg
 ---
 # Coursera Plots
 ## Coursera courses selected plots from projects
@@ -18,5 +19,5 @@ src="https://github.com/alexandrekhoury/alexandrekhoury.github.io/blob/5f0c994b1
 
 ##  Representing the Temperature Impact on Precipitations of Whitemore Lake vs Ann Arbor
 
-![Temp Impact on Precipitations](_projects/Coursera/assignment4.jpeg)
+![Temp Impact on Precipitations](/Coursera/assignment4.jpeg)
 ![Temp Impact on Precipitations](https://github.com/alexandrekhoury/alexandrekhoury.github.io/blob/5f0c994b10e66b01e312ce7c485b5e2347d97fc3/_projects/Coursera/assignment4.jpeg)
