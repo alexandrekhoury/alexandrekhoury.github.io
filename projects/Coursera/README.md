@@ -1,4 +1,5 @@
-# Coursera courses selected plots from projects
+# Coursera Plots
+## Coursera courses selected plots from projects
 
 ## Representing historical Climatology Data in Ann Arbor, Michigan, United States
 
