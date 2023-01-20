@@ -5,6 +5,7 @@ description: Selected projects from my physics degree.
 url: /projects/physics/
 permalink: /projects/physics/
 layout: page
+image: /images/physics/movie9.gif
 ---
 # Physics Simulations!
 
@@ -21,6 +22,6 @@ https://github.com/alexandrekhoury/ComputationalPhysics_Phys512/tree/master/Nbod
 
 ## Electromagnetic Wave propogation in a medium
 
-![](/projects/Physics_Simulations/movie9.gif)
+![](/images/physics/movie9.gif)
 
 The wave is going through a pore which seperates two different mediums. 
