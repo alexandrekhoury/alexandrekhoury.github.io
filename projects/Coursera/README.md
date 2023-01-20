@@ -6,4 +6,4 @@
 
 ##  Representing the Temperature Impact on Precipitations of Whitemore Lake vs Ann Arbor
 
-![Temp Impact on Precipitations](https://github.com/alexandrekhoury/alexandrekhoury.github.io/blob/gh-pages/projects/Coursera/assignment4.jpeg)
+![Temp Impact on Precipitations](/projects/Coursera/assignment4.jpeg)
