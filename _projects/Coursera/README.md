@@ -12,6 +12,9 @@ permalink: /projects/Coursera/
 
 ![Daily Global Historical Climatology Network Data](./_projects/Coursera/Assignment_2.jpeg)
 
+<img src="./_projects/Coursera/Assignment_2.jpeg" alt="lasagna">
+<img src="/_projects/Coursera/Assignment_2.jpeg" alt="lasagna">
+
 ##  Representing the Temperature Impact on Precipitations of Whitemore Lake vs Ann Arbor
 
 ![Temp Impact on Precipitations](./_projects/Coursera/assignment4.jpeg)
