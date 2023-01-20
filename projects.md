@@ -4,11 +4,10 @@ title: Projects
 permalink: /projects/
 ---
 <div class="projects">
-  {% for project in site.collections %}
-    {% if project.label == "projects" %}
+  {% for project in site.static_files %}
+    {% if project.path contains 'projects' %}
     <div class="project">
-      <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
-      <p>{{ project.description }}</p>
+      <h2><a href="{{ project.path }}">{{ project.title }}</a></h2>
     </div>
     {% endif %}
   {% endfor %}
