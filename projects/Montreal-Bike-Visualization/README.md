@@ -3,7 +3,6 @@ title: Montreal Bike Location Visualization
 description: Interactive plots of bike densities in Montreal.
 #image: /assets/images/project-image.jpg
 url: /projects/Montreal-Bike-Visualization
-layout: projects
 ---
 # Montreal Bike Location Visualization
 
