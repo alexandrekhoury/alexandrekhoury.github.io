@@ -2,6 +2,8 @@
 title: Physics Simulations!
 description: Selected projects from my physics degree.
 #image: /assets/images/project-image.jpg
+url: /projects/physics/
+permalink: /projects/physics/
 ---
 # Physics Simulations!
 
