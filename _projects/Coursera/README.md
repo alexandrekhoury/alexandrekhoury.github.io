@@ -2,7 +2,6 @@
 title: Climate Plots
 description: Plots from selected data science courses from Coursera.
 #image: /assets/images/project-image.jpg
-layout: project_page
 url: /projects/Coursera/
 permalink: /projects/Coursera/
 ---
