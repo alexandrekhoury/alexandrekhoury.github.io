@@ -10,8 +10,8 @@ permalink: /projects/Coursera/
 
 ## Representing historical Climatology Data in Ann Arbor, Michigan, United States
 
-![Daily Global Historical Climatology Network Data](/_projects/Coursera/Assignment_2.jpeg)
+![Daily Global Historical Climatology Network Data](./_projects/Coursera/Assignment_2.jpeg)
 
 ##  Representing the Temperature Impact on Precipitations of Whitemore Lake vs Ann Arbor
 
-![Temp Impact on Precipitations](/_projects/Coursera/assignment4.jpeg)
+![Temp Impact on Precipitations](./_projects/Coursera/assignment4.jpeg)
