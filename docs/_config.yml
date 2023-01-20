@@ -21,7 +21,7 @@ I'm a physicist with experience in AI. On this page,
  either because it seemed cool or because I wanted to enhance my skills.
 Please have fun browsing through some of the selected projects I present.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://alexandrekhoury.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  alexandrekhoury
 
 # Build settings
