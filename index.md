@@ -3,8 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+list_title: ' '
 ---
 
-# Portfolio: 
-
 [Projects](https://alexandrekhoury.github.io/projects/)
+
+[About](https://alexandrekhoury.github.io/about/)
