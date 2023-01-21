@@ -16,7 +16,7 @@
 title: Alexandre Khoury
 email: alexandre.pkhoury@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a physicist with experience in AI. On this page, I will post a few projects that I decided to do, either because it seemed cool or because I wanted to enhance my skills. Please have fun browsing through some of the selected projects I present.
+  Hey! Have fun exploring :)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alexandrekhoury.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  alexandrekhoury
@@ -33,7 +33,7 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-    
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
