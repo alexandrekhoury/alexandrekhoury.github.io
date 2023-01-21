@@ -18,7 +18,7 @@ image: /images/physics/movie9.gif
 
 ### For more information checkout my repository in which I solve this problem in detail: 
 
-https://github.com/alexandrekhoury/ComputationalPhysics_Phys512/tree/master/Nbody
+[github](https://github.com/alexandrekhoury/ComputationalPhysics_Phys512/tree/master/Nbody)
 
 ## Electromagnetic Wave propogation in a medium
 
