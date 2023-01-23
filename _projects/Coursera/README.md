@@ -1,11 +1,11 @@
 ---
 title: Climate Plots
 description: Plots from selected data science courses from Coursera.
-#image: /assets/images/project-image.jpg
+date:   2022-08-01
 url: /projects/Coursera/
 permalink: /projects/Coursera/
 layout: page
-image: /images/Coursera/assignment4.jpeg
+image: /images/Coursera/Assignment3.jpeg
 ---
 # Coursera Plots
 ## Coursera courses selected plots from projects

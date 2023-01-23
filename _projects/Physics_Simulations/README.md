@@ -1,6 +1,7 @@
 ---
 title: Physics Simulations!
 description: Selected projects from my physics degree.
+date:   2020-06-01
 #image: /assets/images/project-image.jpg
 url: /projects/physics/
 permalink: /projects/physics/

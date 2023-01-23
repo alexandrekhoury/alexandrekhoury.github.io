@@ -1,6 +1,7 @@
 ---
 title: Montreal Bike Location Visualization
 description: Interactive plots of bike densities in Montreal.
+date:   2022-08-01
 #image: /assets/images/project-image.jpg
 permalink: /projects/Montreal-Bike-Visualization
 url: /projects/Montreal-Bike-Visualization
