@@ -5,6 +5,3 @@
 layout: home
 ---
 
-[Projects](https://alexandrekhoury.github.io/projects/)
-
-[About](https://alexandrekhoury.github.io/about/)
