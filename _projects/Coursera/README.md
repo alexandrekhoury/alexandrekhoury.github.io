@@ -7,15 +7,18 @@ permalink: /projects/Coursera/
 layout: page
 image: /images/Coursera/Assignment_2.jpeg
 ---
-# Coursera Plots
 ## Coursera courses selected plots from projects
 
-## Representing historical Climatology Data in Ann Arbor, Michigan, United States
+### Representing historical Climatology Data in Ann Arbor, Michigan, United States
 
 ![Daily Global Historical Climatology Network Data](/images/Coursera/Assignment_2.jpeg)
 
 
-##  Representing the Temperature Impact on Precipitations of Whitemore Lake vs Ann Arbor
+###  Representing the Temperature Impact on Precipitations of Whitemore Lake vs Ann Arbor
 
 ![Temp Impact on Precipitations](/images/Coursera/assignment4.jpeg)
 
+
+## Wind Energy Institute of Canada Data Visualization
+
+[Climate Station](https://weican.ca/climate-station)
