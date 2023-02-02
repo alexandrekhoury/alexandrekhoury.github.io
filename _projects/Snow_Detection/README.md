@@ -9,7 +9,7 @@ image: /images/Snow_Detection/Picture2.png
 ---
 ## Example image of Solar Array
 
-![12:00](/images/Snow_Detection/Picture2.5.png)
+![12:00](/images/Snow_Detection/Picture02.png)
 
 ## Detecting Snow Coverage on Solar Arrays by using Machine Learning Algorithms
 
